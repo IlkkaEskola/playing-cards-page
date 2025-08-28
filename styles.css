@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(220, 200, 238);
+    background-color: rgb(209, 180, 235);
 }
 
 #playing-cards{
@@ -7,6 +7,7 @@ body{
     flex-wrap: wrap;
     justify-content: center;
     gap: 20px;
+    
 }
 
 .card{
@@ -16,7 +17,6 @@ body{
     border-radius: 5px;
     display: flex;
     justify-content: space-between;
-    background-color: white;
 }
 
 .left{
